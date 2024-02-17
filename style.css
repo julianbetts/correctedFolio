@@ -178,6 +178,7 @@ h4 a:hover {
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
     max-width: 25%;
+
 }
 
 .item {
